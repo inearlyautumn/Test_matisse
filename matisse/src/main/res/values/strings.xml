@@ -39,4 +39,11 @@
     <string name="button_original">Original</string>
     <string name="button_sure_default">Sure</string>
     <string name="button_sure">Sure(%1$d)</string>
+
+    <plurals name="error_over_count">
+        <item quantity="one">您选择的文件不能超过％1 $ d个</item>
+        <item quantity="few">您选择的文件不能超过％1 $ d个</item>
+        <item quantity="many">您选择的文件不能超过％1 $ d个</item>
+        <item quantity="other">您选择的文件不能超过％1 $ d个</item>
+    </plurals>
 </resources>

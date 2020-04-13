@@ -173,7 +173,7 @@ public class SelectedItemCollection {
 
             try {
                 cause = mContext.getResources().getQuantityString(
-                        R.string.album_name_all,
+                        R.plurals.error_over_count,
                         maxSelectable,
                         maxSelectable
                 );
